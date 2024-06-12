@@ -1,2 +1,2 @@
 # Efficient-AI-Computing-Resources
-Resources for Efficient AI Computing 
+Resources for Efficient AI Computing & TinyML
