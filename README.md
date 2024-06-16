@@ -63,6 +63,13 @@ CVPR, 2024.
 IEEE Circuits and Systems Magazine 23 (3), 8-34, 2023.
 [[Paper](https://arxiv.org/pdf/2403.19076)]
 
+### Training
+
+**PockEngine: Sparse and Efficient Fine-tuning in a Pocket.**<br>
+*L Zhu, L Hu, J Lin, WM Chen, WC Wang, C Gan, S Han.*<br>
+MICRO, 2023.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614307)]
+
 ### MCU
 
 **Mcunet: Tiny deep learning on iot devices.**<br>
