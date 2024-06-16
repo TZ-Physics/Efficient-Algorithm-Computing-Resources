@@ -54,6 +54,20 @@ CVPR, 2024.
 [[Paper](https://arxiv.org/pdf/2402.19481)]
 [[Github](https://github.com/mit-han-lab/distrifuser)]
 
+## Point Cloud
+
+**Torchsparse: Efficient point cloud inference engine.**<br>
+*H Tang, Z Liu, X Li, Y Lin, S Han.*<br>
+Proceedings of Machine Learning and Systems, 2022.
+[[Paper](https://proceedings.mlsys.org/paper_files/paper/2022/file/c48e820389ae2420c1ad9d5856e1e41c-Paper.pdf)]
+[[Github](https://hanlab.mit.edu/projects/torchsparse)]
+
+**Torchsparse++: Efficient training and inference framework for sparse convolution on gpus.**<br>
+*H Tang, S Yang, Z Liu, K Hong, Z Yu, X Li, G Dai, Y Wang, S Han.*<br>
+MICRO, 2023.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614303)]
+[[Github](https://github.com/mit-han-lab/torchsparse)]
+
 ## TinyML
 
 ### Review
