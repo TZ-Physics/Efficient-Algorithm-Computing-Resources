@@ -28,17 +28,17 @@ ArXiv, 2024.
 
 ## VLP
 
-**AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration.**<br>
-*Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.*<br>
-MLSys, 2024.
-[[Paper](https://arxiv.org/pdf/2306.00978)]
-[[Github](https://github.com/mit-han-lab/llm-awq)]
+**MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices.**<br>
+*Xiangxiang Chu, Limeng Qiao, Xinyang Lin, Shuang Xu, et al.*<br>
+arXiv, 2023.
+[[Paper](https://arxiv.org/pdf/2312.16886v2)]
+[[Github](https://github.com/Meituan-AutoML/MobileVLM)]
 
-**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving.**<br>
-*Muyang Li, Tianle Cai, Jiaxin Cao, Qinsheng Zhang, Han Cai, Junjie Bai, Yangqing Jia, Ming-Yu Liu, Kai Li, Song Han.*<br>
+**MobileVLM V2: Faster and Stronger Baseline for Vision Language Model.**<br>
+*X Chu, L Qiao, X Zhang, S Xu, F Wei, Y Yang, et al.*<br>
 ArXiv, 2024.
-[[Paper](https://arxiv.org/pdf/2405.04532)]
-[[Github](https://hanlab.mit.edu/projects/qserve)]
+[[Paper](https://arxiv.org/pdf/2402.03766)]
+[[Github](https://github.com/Meituan-AutoML/MobileVLM)]
 
 ## Diffusion Models
 
