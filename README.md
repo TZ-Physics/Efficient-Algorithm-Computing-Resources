@@ -2,6 +2,11 @@
 
 ## Transformer
 
+**Efficient transformers: A survey.**<br>
+*Y Tay, M Dehghani, D Bahri, D Metzler.*<br>
+ACM Computing Surveys, 2022.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3530811)]
+
 **A survey on efficient training of transformers.**<br>
 *B Zhuang, J Liu, Z Pan, H He, Y Weng, C Shen.*<br>
 arXiv:2302.01107, 2023.
@@ -25,6 +30,12 @@ MLSys, 2024.
 ArXiv, 2024.
 [[Paper](https://arxiv.org/pdf/2405.04532)]
 [[Github](https://hanlab.mit.edu/projects/qserve)]
+
+**Efficient streaming language models with attention sinks.**<br>
+*G Xiao, Y Tian, B Chen, S Han, M Lewis.*<br>
+arXiv:2309.17453, 2023.
+[[Paper](https://arxiv.org/pdf/2309.17453)]
+[[Github](https://arxiv.org/pdf/2309.17453)]
 
 ## VLP
 
