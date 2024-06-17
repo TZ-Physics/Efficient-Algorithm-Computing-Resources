@@ -91,3 +91,15 @@ MICRO, 2023.
 Advances in Neural Information Processing Systems, 2020.
 [[Paper](https://proceedings.neurips.cc/paper/2020/file/86c51678350f656dcc7f490a43946ee5-Paper.pdf)]
 [[Github](https://hanlab.mit.edu/projects/tinyml)]
+
+**Mcunetv2: Memory-efficient patch-based inference for tiny deep learning.**<br>
+*J Lin, WM Chen, H Cai, C Gan, S Han.*<br>
+arXiv:2110.15352, 2021.
+[[Paper](https://arxiv.org/pdf/2110.15352)]
+[[Github](https://hanlab.mit.edu/projects/tinyml)]
+
+**MCUFormer: Deploying Vision Tranformers on Microcontrollers with Limited Memory.**<br>
+*Y Liang, Z Wang, X Xu, Y Tang, J Zhou, J Lu.*<br>
+Advances in Neural Information Processing Systems, 2024.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/1ae4999aefb509d75d8608e07280922c-Paper-Conference.pdf)]
+[[Github](https://proceedings.neurips.cc/paper_files/paper/2023/file/1ae4999aefb509d75d8608e07280922c-Paper-Conference.pdf)]
