@@ -77,12 +77,32 @@ MICRO, 2023.
 IEEE Circuits and Systems Magazine 23 (3), 8-34, 2023.
 [[Paper](https://arxiv.org/pdf/2403.19076)]
 
+**PockEngine: Sparse and Efficient Fine-tuning in a Pocket.**<br>
+*L Zhu, L Hu, J Lin, WM Chen, WC Wang, C Gan, S Han.*<br>
+MICRO, 2023.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614307)]
+
+**Intelligence at the extreme edge: A survey on reformable tinyml.**<br>
+*V Rajapakse, I Karunanayake, N Ahmed.*<br>
+ACM Computing Surveys, 2023.
+[[Paper](https://arxiv.org/pdf/2204.00827)]
+
 ### Training
 
 **PockEngine: Sparse and Efficient Fine-tuning in a Pocket.**<br>
 *L Zhu, L Hu, J Lin, WM Chen, WC Wang, C Gan, S Han.*<br>
 MICRO, 2023.
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614307)]
+
+**On-device training under 256kb memory.**<br>
+*J Lin, L Zhu, WM Chen, WC Wang, et al.*<br>
+NeurIPS, 2022.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/90c56c77c6df45fc8e556a096b7a2b2e-Paper-Conference.pdf)]
+
+**Training Machine Learning models at the Edge: A Survey.**<br>
+*AR Khouas, MR Bouadjenek, H Hacid, et al.*<br>
+ArXiv, 2023.
+[[Paper](https://arxiv.org/pdf/2403.02619)]
 
 ### MCU
 
