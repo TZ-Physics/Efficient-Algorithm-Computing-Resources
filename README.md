@@ -65,6 +65,12 @@ CVPR, 2024.
 [[Paper](https://arxiv.org/pdf/2402.19481)]
 [[Github](https://github.com/mit-han-lab/distrifuser)]
 
+**Deepcache: Accelerating diffusion models for free.**<br>
+*X Ma, G Fang, X Wang, et al.*<br>
+CVPR, 2024.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_DeepCache_Accelerating_Diffusion_Models_for_Free_CVPR_2024_paper.pdf)]
+[[Github](https://github.com/horseee/DeepCache)]
+
 ## Point Cloud
 
 **Torchsparse: Efficient point cloud inference engine.**<br>
