@@ -33,15 +33,15 @@ ArXiv, 2024.
 
 **Efficient streaming language models with attention sinks.**<br>
 *G Xiao, Y Tian, B Chen, S Han, M Lewis.*<br>
-arXiv:2309.17453, 2023.
-[[Paper](https://arxiv.org/pdf/2309.17453)]
-[[Github](https://arxiv.org/pdf/2309.17453)]
-
-**Efficient streaming language models with attention sinks.**<br>
-*G Xiao, Y Tian, B Chen, S Han, M Lewis.*<br>
 ICLR, 2024.
 [[Paper](https://arxiv.org/pdf/2309.17453)]
 [[Github](https://github.com/mit-han-lab/streaming-llm)]
+
+**Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference.**<br>
+W Luk, KFC Yiu, R Li, K Mishchenko, SI Venieris, H Fan.*<br>
+arxiv:2405.18628, 2024.
+[[Paper](https://arxiv.org/pdf/2405.18628)]
+[[Github](https://github.com/hmarkc/parallel-prompt-decoding)]
 
 ## VLP
 
