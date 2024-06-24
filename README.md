@@ -45,6 +45,12 @@ arxiv:2405.18628, 2024.
 
 ## VLP
 
+**Efficientvlm: Fast and accurate vision-language models via knowledge distillation and modal-adaptive pruning.**<br>
+*T Wang, W Zhou, Y Zeng, X Zhang.*<br>
+arxiv:2210.07795, 2022.
+[[Paper](https://arxiv.org/pdf/2210.07795)]
+[[Github](https://github.com/swaggy-TN/EfficientVLM)]
+
 **MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices.**<br>
 *Xiangxiang Chu, Limeng Qiao, Xinyang Lin, Shuang Xu, et al.*<br>
 arXiv, 2023.
