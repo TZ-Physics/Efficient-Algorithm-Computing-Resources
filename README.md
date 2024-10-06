@@ -79,8 +79,7 @@ CVPR, 2024.
 [[Paper](https://arxiv.org/pdf/2402.19481)]
 [[Github](https://github.com/mit-han-lab/distrifuser)]
 
-## TinyML-Resources
-Resources for TinyML
+## TinyML
 
 ### Review
 
