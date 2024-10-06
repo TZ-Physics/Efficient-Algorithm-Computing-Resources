@@ -1,6 +1,8 @@
 # Efficient-AI-Computing-Resources
 
-## Transformer
+## Inference Optimization
+
+### Transformer
 
 **Efficient transformers: A survey.**<br>
 *Y Tay, M Dehghani, D Bahri, D Metzler.*<br>
@@ -17,7 +19,7 @@ arXiv:2302.01107, 2023.
 arXiv:2302.14017, 2023.
 [[Paper](https://arxiv.org/pdf/2302.14017)]
 
-## LLM
+### LLM
 
 **AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration.**<br>
 *Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.*<br>
@@ -43,7 +45,7 @@ arxiv:2405.18628, 2024.
 [[Paper](https://arxiv.org/pdf/2405.18628)]
 [[Github](https://github.com/hmarkc/parallel-prompt-decoding)]
 
-## VLP
+### VLP
 
 **Efficientvlm: Fast and accurate vision-language models via knowledge distillation and modal-adaptive pruning.**<br>
 *T Wang, W Zhou, Y Zeng, X Zhang.*<br>
@@ -63,7 +65,7 @@ ArXiv, 2024.
 [[Paper](https://arxiv.org/pdf/2402.03766)]
 [[Github](https://github.com/Meituan-AutoML/MobileVLM)]
 
-## Diffusion Models
+### Diffusion Models
 
 **Snapfusion: Text-to-image diffusion model on mobile devices within two seconds.**<br>
 *Y Li, H Wang, Q Jin, J Hu, P Chemerys, Y Fu, Y Wang, S Tulyakov, J Ren.*<br>
@@ -76,6 +78,57 @@ Advances in Neural Information Processing Systems, 2024.
 CVPR, 2024.
 [[Paper](https://arxiv.org/pdf/2402.19481)]
 [[Github](https://github.com/mit-han-lab/distrifuser)]
+
+## TinyML-Resources
+Resources for TinyML
+
+### Review
+
+**Tiny Machine Learning: Progress and Futures.**<br>
+*J Lin, L Zhu, WM Chen, WC Wang, et al.*<br>
+IEEE Circuits and Systems Magazine 23 (3), 8-34, 2023.
+[[Paper](https://arxiv.org/pdf/2403.19076)]
+
+**PockEngine: Sparse and Efficient Fine-tuning in a Pocket.**<br>
+*L Zhu, L Hu, J Lin, WM Chen, WC Wang, C Gan, S Han.*<br>
+MICRO, 2023.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614307)]
+
+**Intelligence at the extreme edge: A survey on reformable tinyml.**<br>
+*V Rajapakse, I Karunanayake, N Ahmed.*<br>
+ACM Computing Surveys, 2023.
+[[Paper](https://arxiv.org/pdf/2204.00827)]
+
+### Training
+
+**PockEngine: Sparse and Efficient Fine-tuning in a Pocket.**<br>
+*L Zhu, L Hu, J Lin, WM Chen, WC Wang, C Gan, S Han.*<br>
+MICRO, 2023.
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3613424.3614307)]
+
+**On-device training under 256kb memory.**<br>
+*J Lin, L Zhu, WM Chen, WC Wang, et al.*<br>
+NeurIPS, 2022.
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/90c56c77c6df45fc8e556a096b7a2b2e-Paper-Conference.pdf)]
+
+**Training Machine Learning models at the Edge: A Survey.**<br>
+*AR Khouas, MR Bouadjenek, H Hacid, et al.*<br>
+ArXiv, 2023.
+[[Paper](https://arxiv.org/pdf/2403.02619)]
+
+### MCU
+
+**Mcunet: Tiny deep learning on iot devices.**<br>
+*J Lin, WM Chen, Y Lin, C Gan, S Han.*<br>
+Advances in Neural Information Processing Systems, 2020.
+[[Paper](https://proceedings.neurips.cc/paper/2020/file/86c51678350f656dcc7f490a43946ee5-Paper.pdf)]
+[[Github](https://hanlab.mit.edu/projects/tinyml)]
+
+**Mcunetv2: Memory-efficient patch-based inference for tiny deep learning.**<br>
+*J Lin, WM Chen, H Cai, C Gan, S Han.*<br>
+arXiv:2110.15352, 2021.
+[[Paper](https://arxiv.org/pdf/2110.15352)]
+[[Github](https://hanlab.mit.edu/projects/tinyml)]
 
 **Deepcache: Accelerating diffusion models for free.**<br>
 *X Ma, G Fang, X Wang, et al.*<br>
