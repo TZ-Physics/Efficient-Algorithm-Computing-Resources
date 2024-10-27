@@ -21,11 +21,23 @@ arXiv:2302.14017, 2023.
 
 ### LLM
 
-**AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration.**<br>
-*Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.*<br>
-MLSys, 2024.
-[[Paper](https://arxiv.org/pdf/2306.00978)]
-[[Github](https://github.com/mit-han-lab/llm-awq)]
+**Smoothquant: Accurate and efficient post-training quantization for large language models.**<br>
+*G Xiao, J Lin, M Seznec, H Wu, J Demouth, S Han.*<br>
+International Conference on Machine Learning, 2023.
+[[Paper](https://proceedings.mlr.press/v202/xiao23c/xiao23c.pdf)]
+[[Github](https://github.com/mit-han-lab/smoothquant)]
+
+**DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads.**<br>
+*G Xiao, J Tang, J Zuo, J Guo, S Yang, H Tang, Y Fu, S Han.*<br>
+arXiv:2410.10819, 2024.
+[[Paper](https://arxiv.org/pdf/2410.10819)]
+[[Github](https://github.com/mit-han-lab/duo-attention)]
+
+**Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference.**<br>
+*W Luk, KFC Yiu, R Li, K Mishchenko, SI Venieris, H Fan.*<br>
+arxiv:2405.18628, 2024.
+[[Paper](https://arxiv.org/pdf/2405.18628)]
+[[Github](https://github.com/hmarkc/parallel-prompt-decoding)]
 
 **QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving.**<br>
 *Muyang Li, Tianle Cai, Jiaxin Cao, Qinsheng Zhang, Han Cai, Junjie Bai, Yangqing Jia, Ming-Yu Liu, Kai Li, Song Han.*<br>
@@ -39,11 +51,11 @@ ICLR, 2024.
 [[Paper](https://arxiv.org/pdf/2309.17453)]
 [[Github](https://github.com/mit-han-lab/streaming-llm)]
 
-**Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference.**<br>
-W Luk, KFC Yiu, R Li, K Mishchenko, SI Venieris, H Fan.*<br>
-arxiv:2405.18628, 2024.
-[[Paper](https://arxiv.org/pdf/2405.18628)]
-[[Github](https://github.com/hmarkc/parallel-prompt-decoding)]
+**AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration.**<br>
+*Ji Lin, Jiaming Tang, Haotian Tang, Shang Yang, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.*<br>
+MLSys, 2024.
+[[Paper](https://arxiv.org/pdf/2306.00978)]
+[[Github](https://github.com/mit-han-lab/llm-awq)]
 
 ### VLP
 
