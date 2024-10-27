@@ -85,11 +85,29 @@ Advances in Neural Information Processing Systems, 2024.
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/41bcc9d3bddd9c90e1f44b29e26d97ff-Paper-Conference.pdf)]
 [[Github](https://snap-research.github.io/SnapFusion)]
 
+**Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models.**<br>
+*J Chen, H Cai, J Chen, E Xie, S Yang, H Tang, M Li, Y Lu, S Han.*<br>
+arXiv:2410.10733, 2024.
+[[Paper](https://arxiv.org/pdf/2410.10733)]
+[[Github](https://github.com/mit-han-lab/efficientvit)]
+
+**Deepcache: Accelerating diffusion models for free.**<br>
+*X Ma, G Fang, X Wang.*<br>
+CVPR, 2024.
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_DeepCache_Accelerating_Diffusion_Models_for_Free_CVPR_2024_paper.pdf)]
+[[Github](https://github.com/horseee/DeepCache)]
+
 **DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models.**<br>
 *Muyang Li, Tianle Cai, Jiaxin Cao, Qinsheng Zhang, Han Cai, Junjie Bai, Yangqing Jia, Ming-Yu Liu, Kai Li, Song Han.*<br>
 CVPR, 2024.
 [[Paper](https://arxiv.org/pdf/2402.19481)]
 [[Github](https://github.com/mit-han-lab/distrifuser)]
+
+**SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers.**<br>
+*E Xie, J Chen, J Chen, H Cai, Y Lin, Z Zhang, M Li, Y Lu, S Han.*<br>
+arXiv:2410.10629, 2024.
+[[Paper](https://arxiv.org/pdf/2410.10629)]
+[[Github](https://nvlabs.github.io/Sana/)]
 
 ## TinyML
 
