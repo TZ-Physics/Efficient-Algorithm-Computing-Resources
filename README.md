@@ -57,7 +57,7 @@ MLSys, 2024.
 [[Paper](https://arxiv.org/pdf/2306.00978)]
 [[Github](https://github.com/mit-han-lab/llm-awq)]
 
-### VLP
+### VLM
 
 **Efficientvlm: Fast and accurate vision-language models via knowledge distillation and modal-adaptive pruning.**<br>
 *T Wang, W Zhou, Y Zeng, X Zhang.*<br>
