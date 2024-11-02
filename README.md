@@ -1,6 +1,6 @@
-# Efficient-AI-Computing-Resources
+# Efficient-Algorithm-Computing-Resources
 
-## Inference Optimization
+## AI Inference Optimization
 
 ### Transformer
 
