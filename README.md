@@ -1,4 +1,4 @@
-# Efficient-Algorithm-Computing-Resources
+# Efficient-Algorithm-Optimization-Resources
 
 ## AI Inference Optimization
 
