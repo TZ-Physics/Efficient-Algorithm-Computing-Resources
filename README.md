@@ -1,6 +1,6 @@
 # Efficient-Algorithm-Computing-Resources
 
-## Deep Learning Computing Optimization
+## Deep Learning
 
 ### Transformer
 
